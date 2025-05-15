@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Fundamentals of Machine Learning: supervised, unsupervised, and reinforcement learning. Deep learning workflows using TensorFlow and PyTorch. Building and training AI models for classification, detection, and prediction tasks.**
 
-- 📫 How to reach me **arkamdeshmukh@gmail.com LinkedIn: https://www.linkedin.com/in/arkam-deshmukh-319a36363/**
+- 📫 How to reach me **arkamdeshmukh@gmail.com LinkedIn: https://www.linkedin.com/in/arkamdeshmukh/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
